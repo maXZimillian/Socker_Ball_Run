@@ -27,9 +27,9 @@ External assets are locating at:
 ## Scenes
 
 The project includes two main scenes:
-**Main Menu** - runs event handlers and contains level selection buttons, skin store.
-**Additive ingame UI** - dynamically loaded UI inside the level.
-**Levels** - main gameplay scenes.
+- **Main Menu** - runs event handlers and contains level selection buttons, skin store.
+- **Additive ingame UI** - dynamically loaded UI inside the level.
+- **Levels** - main gameplay scenes.
 
 ## Canvas settings
 
