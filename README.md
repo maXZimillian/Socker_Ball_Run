@@ -4,9 +4,9 @@ Demo gif will be here:
 <img alt="demo is loaging" src="https://github.com/maXZimillian/Socker_Ball_Run/blob/main/RepoResources/SoccerDemo_1.gif?raw=true"/></code>
 #
 Socker Ball Run is a Unity 3D project using free assets and AI generated sprites. The main mechanics of the project is to control a ball rolling across the field, dodging enemy players and obstacles, making your way to the enemy goalgate and scoring a goal.
-  
+External assets are locating at:  
 ```
-./Assets/Resources/Packages
+./Assets/Import/AdditivePacks
 ```
 ## The project content at the moment:
 
