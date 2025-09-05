@@ -1,4 +1,7 @@
 # Socker Ball Run
+
+[English Version](README.md)
+
 Demo gif загружается:
 
 <img alt="демо загружается" src="https://github.com/maXZimillian/Socker_Ball_Run/blob/main/RepoResources/SoccerDemo_1.gif?raw=true"/></code>
@@ -40,5 +43,3 @@ Socker Ball Run - это проект на Unity 3D, использующий б
 
 ## Сборки
 В папке Builds предоставлена сборка APK для Android.
-
-[English Version](README.md)
