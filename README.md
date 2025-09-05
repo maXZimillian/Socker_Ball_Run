@@ -1,4 +1,7 @@
 # Socker Ball Run
+
+[Русская версия](README.RU.md)
+
 Demo gif will be here (Loading):
 
 <img alt="demo is loaging" src="https://github.com/maXZimillian/Socker_Ball_Run/blob/main/RepoResources/SoccerDemo_1.gif?raw=true"/></code>
@@ -39,5 +42,3 @@ The project includes two main scenes:
 
 ## Builds
 Builds folder contains archived APK-file for Android.
-
-[Russian](README.RU.md)
