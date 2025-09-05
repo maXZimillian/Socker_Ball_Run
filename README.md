@@ -1,5 +1,5 @@
 # Socker Ball Run
-Demo gif will be here:
+Demo gif will be here (Loading):
 
 <img alt="demo is loaging" src="https://github.com/maXZimillian/Socker_Ball_Run/blob/main/RepoResources/SoccerDemo_1.gif?raw=true"/></code>
 #
