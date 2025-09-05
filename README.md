@@ -36,3 +36,8 @@ The project includes two main scenes:
 - Each **Canvas** should have a reference resolution of **1080x1920**.
 - Large textures should not exceed **5MB** and should be pre-compressed in a graphics editor.
 - Texture format: **.png**
+
+## Builds
+Builds folder contains archived APK-file for Android.
+
+[Russian](README.RU.md)
